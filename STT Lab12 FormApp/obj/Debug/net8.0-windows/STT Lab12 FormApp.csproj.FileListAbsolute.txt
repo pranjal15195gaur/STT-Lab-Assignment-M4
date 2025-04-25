@@ -1,0 +1,16 @@
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\obj\Debug\net8.0-windows\STT_Lab12_FormApp.Form1.resources
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\obj\Debug\net8.0-windows\STT Lab12 FormApp.csproj.GenerateResource.cache
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\obj\Debug\net8.0-windows\STT Lab12 FormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\obj\Debug\net8.0-windows\STT Lab12 FormApp.AssemblyInfoInputs.cache
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\obj\Debug\net8.0-windows\STT Lab12 FormApp.AssemblyInfo.cs
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\obj\Debug\net8.0-windows\STT Lab12 FormApp.csproj.CoreCompileInputs.cache
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\bin\Debug\net8.0-windows\STT Lab12 FormApp.exe
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\bin\Debug\net8.0-windows\STT Lab12 FormApp.deps.json
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\bin\Debug\net8.0-windows\STT Lab12 FormApp.runtimeconfig.json
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\bin\Debug\net8.0-windows\STT Lab12 FormApp.dll
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\bin\Debug\net8.0-windows\STT Lab12 FormApp.pdb
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\obj\Debug\net8.0-windows\STT Lab12 FormApp.dll
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\obj\Debug\net8.0-windows\refint\STT Lab12 FormApp.dll
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\obj\Debug\net8.0-windows\STT Lab12 FormApp.pdb
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\obj\Debug\net8.0-windows\STT Lab12 FormApp.genruntimeconfig.cache
+C:\Users\pranj\source\repos\STT Lab12 FormApp\STT Lab12 FormApp\obj\Debug\net8.0-windows\ref\STT Lab12 FormApp.dll
