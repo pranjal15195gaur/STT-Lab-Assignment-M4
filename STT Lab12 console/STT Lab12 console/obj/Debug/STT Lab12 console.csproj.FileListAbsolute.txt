@@ -1,0 +1,7 @@
+C:\Users\pranj\source\repos\STT Lab12 console\STT Lab12 console\bin\Debug\STT Lab12 console.exe.config
+C:\Users\pranj\source\repos\STT Lab12 console\STT Lab12 console\bin\Debug\STT Lab12 console.exe
+C:\Users\pranj\source\repos\STT Lab12 console\STT Lab12 console\bin\Debug\STT Lab12 console.pdb
+C:\Users\pranj\source\repos\STT Lab12 console\STT Lab12 console\obj\Debug\STT Lab12 console.csproj.AssemblyReference.cache
+C:\Users\pranj\source\repos\STT Lab12 console\STT Lab12 console\obj\Debug\STT Lab12 console.csproj.CoreCompileInputs.cache
+C:\Users\pranj\source\repos\STT Lab12 console\STT Lab12 console\obj\Debug\STT Lab12 console.exe
+C:\Users\pranj\source\repos\STT Lab12 console\STT Lab12 console\obj\Debug\STT Lab12 console.pdb
